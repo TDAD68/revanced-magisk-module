@@ -7,6 +7,8 @@ enable-magisk-update = true # set this to false if you do not want to receive up
 [YouTube-Extended]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "TDAD68/revanced-patches"
+patches-version = "latest"
+cli-version = "latest"
 integrations-source = "TDAD68/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "TED68 ReVanced"
